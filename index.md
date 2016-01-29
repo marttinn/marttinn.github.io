@@ -11,7 +11,7 @@ spare time I create [‘One MVP a week’](https://medium.com/@mvrtxn/one-mvp-a-
 
 
 <span class="links">
- [Twitter](https://twitter.com/mvrtxn) [Blog](/blog/) [Github](https://github.com/marttinn)
+ [Twitter](https://twitter.com/mvrtxn) [Blog](https://medium.com/@mvrtxn) [Github](https://github.com/marttinn)
 [Newsletter](https://tinyletter.com/martinn)
   </span><br>
 
