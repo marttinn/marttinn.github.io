@@ -1,7 +1,5 @@
 ---
 layout: default
-permalink: /blog
-
 ---
 
 Here I share my writings most of the time it's tech, startups and the internet:
