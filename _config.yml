@@ -1,0 +1,10 @@
+# Site settings
+title: Martin Granados | Dev, Engineer
+tag_text: Martin Granados
+description: Innovating, crafting things that matter. (Hopefully)
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
