@@ -10,10 +10,10 @@ spare time I create [‘One MVP a week’](https://medium.com/@mvrtxn/one-mvp-a-
   Tech lover, crafter of solutions. Always love and enjoy a great design.
 
 
-<div class="links">
+<span class="links">
  [Twitter](https://twitter.com/mvrtxn) [Blog](https://medium.com/@mvrtxn) [Github](https://github.com/marttinn)
 [Newsletter](https://tinyletter.com/martinn)
-</div><br>
+</span><br>
 
 
 ![Martin Granados](https://dl.dropboxusercontent.com/u/80435/martin.jpg)
